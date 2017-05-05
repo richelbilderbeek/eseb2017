@@ -17,3 +17,16 @@ Day|Time|What|Who
 4|?19:00|Hi-tech|?
 5|?13:00|DNA|?
 5|?19:00|Hi-tech|?
+
+## DNA extractie:
+
+- wat: DNA halen uit aardbeien
+- leeftijd: 8-12 jaar
+- max aantal bezoekers: 10
+- ruimte: tafel waar 10 kinderen aan kunnen, netspanning niet nodig
+
+## Hi Tech voor de normale mens
+
+- wat: Wat is DIYbio?, genetic fingerprinting, PCR, electroforese
+- max aantal bezoekers: 10
+- ruimte: tafel waar 10 kinderen aan kunnen, netspanning nodig
