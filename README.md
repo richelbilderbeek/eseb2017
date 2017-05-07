@@ -1,32 +1,3 @@
 # eseb2017
 
-ESEB 2017 activities
-
- * When: either from August 19-23rd or 20-24th 2017
- * What: DNA extraction and hi-tech
-
-Day|Time|What|Who
----|---|---|---
-1|?13:00|DNA|?
-1|?19:00|Hi-tech|?
-2|?13:00|DNA|?
-2|?19:00|Hi-tech|?
-3|?13:00|DNA|?
-3|?19:00|Hi-tech|?
-4|?13:00|DNA|?
-4|?19:00|Hi-tech|?
-5|?13:00|DNA|?
-5|?19:00|Hi-tech|?
-
-## DNA extractie:
-
-- wat: DNA halen uit aardbeien
-- leeftijd: 8-12 jaar
-- max aantal bezoekers: 10
-- ruimte: tafel waar 10 kinderen aan kunnen, netspanning niet nodig
-
-## Hi Tech voor de normale mens
-
-- wat: Wat is DIYbio?, genetic fingerprinting, PCR, electroforese
-- max aantal bezoekers: 10
-- ruimte: tafel waar 10 kinderen aan kunnen, netspanning nodig
+Moved to [https://github.com/richelbilderbeek/eseb_2017](https://github.com/richelbilderbeek/eseb_2017)
